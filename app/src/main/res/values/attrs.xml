@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CountEditTextView">
+        <attr name="ced_background" format="reference|color"/>
+        <attr name="ced_minValue" format="integer"/>
+        <attr name="ced_maxValue" format="integer"/>
+        <attr name="ced_icoLeft" format="reference|color"/>
+        <attr name="ced_icoRight" format="reference|color"/>
+        <attr name="ced_textSize" format="reference|dimension"/>
+        <attr name="ced_icoSize" format="reference|dimension"/>
+        <attr name="ced_editHeight" format="reference|dimension"/>
+        <attr name="ced_padding" format="reference|dimension"/>
+        <attr name="ced_edit" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InterviewDemo</string>
+    <string name="commodity_name">美国加州车厘子美国加州车厘子美国加州车厘子</string>
+    <string name="commodity_text">让这个夏季更受期待</string>
+    <string name="commodity_introduce">车厘子被称为水果中的钻石，是因为它不仅好吃，经常食用还能防癌，对于因工作紧张而神经衰弱的人群疗效甚好。此外，车厘子营养丰富，其所含的蛋白质、糖、磷、胡萝卜素、维生素C等均比苹果、梨等常见水果要高得多，尤其铁含量很高。因此，常用樱桃汁涂擦面部及皱纹处，能使面部皮肤红润嫩白，还有去皱消斑的功能。消化不良、体质虚弱、瘫痪和风湿腰腿痛的患者适量食用车厘子也有一定疗效。</string>
+    <string name="money">¥500.00</string>
+    <string name="oldmoney">¥600.00</string>
+</resources>
